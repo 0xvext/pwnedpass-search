@@ -9,6 +9,7 @@ Currently Python 2 compatible.
 
 
 Usage:
+
 python ./pwnedpass-search.py <dictionary file(s) containing SHA-1 hashes>
 
 When prompted, enter a plaintext password string. Output will confirm if the SHA-1 hash of that string was found or not.
@@ -17,6 +18,7 @@ When prompted, enter a plaintext password string. Output will confirm if the SHA
 Example:
 
 (In folder with text files described above)
+
 python ./pwnedpass-search.py pwned-passwords-*.txt
 
 
