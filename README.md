@@ -1,9 +1,9 @@
 # pwnedpass-search
-A python script to perform offline searches against the haveibeenpwned hash list(s), or similar
+A python script to perform offline searches against the haveibeenpwned hash list(s), or similar.
 
 Initial version to make use of the hash files released by @troyhunt on https://www.haveibeenpwned.com 2017.08.03.
 
-Use requires text file(s) containing SHA-1 hashes, one per line, of password strings in one or more text files. Based on the files available for download at https://haveibeenpwned.com/Passwords
+Use requires text file(s) containing SHA-1 hashes, one per line, of password strings. Based on the files available for download at https://haveibeenpwned.com/Passwords
 
 Currently Python 2 compatible.
 
