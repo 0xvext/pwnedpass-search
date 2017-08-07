@@ -22,7 +22,7 @@ python ./pwnedpass-search.py pwned-passwords-*.txt
 
 ===Output===
 
-===============================================================
+```===============================================================
 pwnedpass-search.py  Copyright (C) 2017  vext
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
@@ -38,7 +38,7 @@ Searching. This could take a few minutes...
 [!] Hashed pass found: F2F7D2A4E7C1D1FCC4EF7E7968586C99AADE8B5B
 [!] Found in file: pwned-passwords-1.0.txt
 
-Done.
+Done.```
 
 ===End output===
 
