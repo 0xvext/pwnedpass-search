@@ -22,7 +22,8 @@ python ./pwnedpass-search.py pwned-passwords-*.txt
 
 Output:
 
-```===============================================================
+```
+===============================================================
 pwnedpass-search.py  Copyright (C) 2017  vext
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
