@@ -45,9 +45,9 @@ Done.
 
 
 Possible features to add:
-  Colors
-  Cleaner newline (replace \n) method
-  Prompt user whether to perform another search yes/no at end
-  Translate to python 3
+- Colors
+- Cleaner newline (replace \n) method
+- Prompt user whether to perform another search yes/no at end
+- Translate to python 3
 
 Pull requests welcome.
